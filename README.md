@@ -1,6 +1,6 @@
 # ecom-show-vue-app
 
-to run the demo application clone the repo on your local 2 folders will be there one is shop-frontend and other is shop-backend shop-frontend contains a code of frontend using VUe shop-backend contains a code of backend using nodejs, Mongodb local instanc 
+to run the demo application clone the repo on your local vue-app with 2 folders will be there one is shop-frontend and other is shop-backend shop-frontend contains a code of frontend using VUe shop-backend contains a code of backend using nodejs, Mongodb local instanc 
 
 need to install vue latest version install vue-cli latest version Install Mongodb mongoshell, nodejs latest version Not used Mongo Atlas as need to share the password and username in this
 
