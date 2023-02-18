@@ -15,6 +15,10 @@ After creating these collections you will get all the data which is required for
 
 Run the command "npm run serve by going into the backend folder shop-backend Application will be running on the port 8085
 
-Ensure mongosb local is running using mongoshell in backend to avoid issues
+Ensure mongodb local is running using mongoshell in backend to avoid issues
+
+Ensure all the paackages and dependencies are installed using npm install
+
+
 
 
